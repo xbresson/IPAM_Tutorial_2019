@@ -1,5 +1,8 @@
 # IPAM Tutorial on Spectral and Graph ConvNets
-Notebooks for IPAM Tutorial, March 15 2019
+Notebooks for IPAM Tutorial, March 15 2019<br>
+<br>
+https://www.ipam.ucla.edu/programs/workshops/geometry-and-learning-from-data-tutorials
+<br>
 <br>
 <br>
 
