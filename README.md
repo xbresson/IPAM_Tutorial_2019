@@ -30,6 +30,7 @@ https://www.ipam.ucla.edu/programs/workshops/geometry-and-learning-from-data-tut
    # Conda installation
    curl -o ~/miniconda.sh -O https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh # Linux
    curl -o ~/miniconda.sh -O https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh # OSX
+   #install https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe # Windows
    chmod +x ~/miniconda.sh
    ./miniconda.sh
    source ~/.bashrc
